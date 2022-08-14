@@ -1,1 +1,1 @@
-# competetive_codes
+this branch will contain all the sublime build codes needed to setup the sublime text for competetive programming.![Screenshot from 2022-08-14 17-55-51](https://user-images.githubusercontent.com/77972913/184535640-29b70582-6fe1-4fc7-9760-6d47542eeb6d.png)
